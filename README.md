@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/nikku8753/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nikku8753/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/nikku8753/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nikku8753/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## String
 |  |
 | ------- |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikku8753/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Counting
+|  |
+| ------- |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nikku8753/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
