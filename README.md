@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/nikku8753/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/nikku8753/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikku8753/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0819-most-common-word](https://github.com/nikku8753/leetcode-solutions/tree/master/0819-most-common-word) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/nikku8753/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/nikku8753/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0819-most-common-word](https://github.com/nikku8753/leetcode-solutions/tree/master/0819-most-common-word) |
 ## Sorting
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/nikku8753/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/nikku8753/leetcode-solutions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
