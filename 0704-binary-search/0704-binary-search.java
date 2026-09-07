@@ -1,6 +1,6 @@
 class Solution {
     public int search(int[] nums, int target) {
-        Arrays.sort(nums);
+       // Arrays.sort(nums);
         //int avg=target/2;
         int left=0;
         int right=nums.length-1;
